@@ -14,11 +14,11 @@
 <v t="leo.20151212173315.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 </v>
 <v t="amd.20160921213353.1"><vh>2016fall 簡報與網誌樣板系統</vh></v>
-<v t="amd.20160106095324.1"><vh>@path ./../</vh>
+<v t="amd.20160106095324.1" a="E"><vh>@path ./../</vh>
 <v t="leo.20151213173830.1"><vh>假如要在近端檢視, 使用下列按鈕</vh>
 <v t="leo.20151213085727.1"><vh>@button pelican-blog</vh></v>
 </v>
-<v t="amd.20151215180106.1"><vh>設定與開發</vh>
+<v t="amd.20151215180106.1" a="E"><vh>設定與開發</vh>
 <v t="amd.20151216151325.1"><vh>@edit index.html</vh></v>
 <v t="leo.20151213230723.1"><vh>Pelican 設定</vh>
 <v t="leo.20151213230957.1"><vh>文章 Date 設定</vh></v>
@@ -51,7 +51,7 @@
 </v>
 <v t="amd.20151215170350.1"><vh>以下為 content 目錄中的 md 檔案</vh></v>
 <v t="amd.20151216001126.1"><vh>md 檔案範例</vh></v>
-<v t="amd.20151215170031.1"><vh>@path ./../content</vh>
+<v t="amd.20151215170031.1" a="E"><vh>@path ./../content</vh>
 <v t="amd.20160106093454.1"><vh>yen 所寫的網誌文章</vh>
 <v t="amd.20160727114506.1"><vh>201609</vh>
 <v t="amd.20160727120222.1"><vh>@edit other.md</vh></v>
